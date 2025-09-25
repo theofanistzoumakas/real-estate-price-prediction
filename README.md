@@ -76,7 +76,7 @@ The source file must be a csv file, with columns:
        - Multilayer network
 
 ## 🎯Purpose
-The purpose of this project was to explore how to extract and analyse data, how to predict values using machine learning algorithms, and how to evaluate machine learning models' performance
+The purpose of this project was to learn and explore how to extract and analyse data, how to predict values using machine learning algorithms, and how to evaluate machine learning models' performance.
 
 **This application is developed solely for academic and research purposes.**
 ## 🔒 Code Ownership & Usage Terms
