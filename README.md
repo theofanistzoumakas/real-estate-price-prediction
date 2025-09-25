@@ -1,4 +1,4 @@
-# Real estate price prediction using machine learning algorithms
+# Real estate median price prediction using machine learning algorithms
 
 **This application is developed solely for academic and research purposes.**
 ## 🔒 Code Ownership & Usage Terms
