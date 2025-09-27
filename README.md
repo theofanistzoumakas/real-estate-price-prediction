@@ -75,6 +75,11 @@ The source file must be a csv file, with columns:
        - Least squares algorithm
        - Multilayer network
 
+## 📸Indicative screenshots
+<img width="2050" height="1116" alt="histogram_screenshot" src="assets/histogram_screenshot.png" />
+<img width="2050" height="1116" alt="first_graph_screenshot" src="assets/first_graph_screenshot.png" />
+<img width="2050" height="1116" alt="third_graph_screenshot" src="assets/third_graph_screenshot.png" />
+
 ## 🎯Purpose
 The purpose of this project was to learn and explore how to extract and analyse data, how to predict values using machine learning algorithms, and how to evaluate machine learning models' performance.
 
